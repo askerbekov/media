@@ -1,0 +1,37 @@
+body{
+    display: flex;
+}
+
+
+
+.nav {
+    float: right;
+    margin: 0px;
+   
+  
+   
+}
+.medy{
+    text-align: center;
+ justify-content: center;
+align-items:center;
+    
+}
+.objektive{
+    flex-direction:column;
+}
+.summary{
+    flex-direction:column;
+}
+.skills{
+    flex-direction:column;
+}
+.softwaresa{
+    flex-direction:column;
+}
+.education{
+    flex-direction:column;
+}
+.language{
+    flex-direction:column;
+}
